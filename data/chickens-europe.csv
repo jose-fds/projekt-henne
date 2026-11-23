@@ -1,0 +1,42 @@
+country,code,chickens_millions,people_millions,chicken_year,region
+Poland,PL,244.68,36.6,2024,europe
+France,FR,229.32,68.4,2024,europe
+Spain,ES,193.48,48.0,2020,europe
+Ukraine,UA,173.73,37.0,2024,europe
+United Kingdom,GB,166.99,68.3,2024,europe
+Germany,DE,156.30,84.5,2023,europe
+Italy,IT,142.50,59.0,2020,europe
+Belarus,BY,120.52,9.2,2024,europe
+Netherlands,NL,89.23,17.9,2024,europe
+Romania,RO,74.07,19.0,2023,europe
+Moldova,MD,48.45,2.5,2024,europe
+Belgium,BE,48.75,11.7,2023,europe
+Portugal,PT,44.10,10.5,2023,europe
+Greece,GR,38.51,10.4,2023,europe
+Hungary,HU,28.73,9.6,2024,europe
+Sweden,SE,25.73,10.5,2023,europe
+Czechia,CZ,24.92,10.8,2024,europe
+Denmark,DK,20.72,5.9,2024,europe
+Austria,AT,17.80,9.1,2023,europe
+Bulgaria,BG,17.18,6.4,2020,europe
+Norway,NO,16.58,5.5,2024,europe
+Ireland,IE,15.24,5.3,2020,europe
+Finland,FI,14.43,5.6,2024,europe
+Serbia,RS,14.42,6.6,2024,europe
+Switzerland,CH,13.17,8.8,2024,europe
+Bosnia and Herzegovina,BA,11.52,3.2,2024,europe
+Croatia,HR,10.94,3.9,2024,europe
+Lithuania,LT,10.48,2.9,2024,europe
+Slovakia,SK,9.59,5.4,2024,europe
+Latvia,LV,5.99,1.9,2024,europe
+Slovenia,SI,5.05,2.1,2024,europe
+Albania,AL,4.56,2.8,2024,europe
+Cyprus,CY,4.66,0.92,2023,europe
+North Macedonia,MK,2.57,1.8,2024,europe
+Estonia,EE,2.27,1.37,2024,europe
+Montenegro,ME,1.07,0.62,2024,europe
+Malta,MT,0.79,0.52,2023,europe
+Iceland,IS,0.23,0.39,2024,europe
+Luxembourg,LU,0.19,0.67,2024,europe
+Russia,RU,507.99,144.0,2024,asia
+Turkey,TR,379.63,85.0,2024,asia
